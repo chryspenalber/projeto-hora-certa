@@ -17,7 +17,7 @@ function carregar() {
         document.getElementById('saudar').style.color = 'rgba(213,134,67,1)'
         
     }
-    else if(hora >= 12 && hora <= 18){
+    else if(hora >= 12 && hora < 18){
         bomd.innerHTML = 'Boa Tarde!'
         img.src = './tarde.png'  
         document.body.style.background ='linear-gradient(0deg, rgba(252,196,159,1) 0%, rgba(175,113,102,1) 35%, rgba(107,64,74,1) 100%)'
