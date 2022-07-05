@@ -6,7 +6,7 @@ Projeto executado com base nas aulas do Curso em Vídeo.
 
 Para esse projeto, foram utilizadas as linguagens HTML, Javascript e CSS para estilos.
 
-## Link para visualizar no navegador
+## Visualizar no navegador
 
 [Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
 
